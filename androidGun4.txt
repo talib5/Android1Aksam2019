@@ -1,0 +1,44 @@
+
+
+
+Activity Lifecycle (Yaþam Döngüsü)
+
+- onCreate
+-- Activity sayfamýzýn üretilmesi esnasýnda kullanacaðýmýz özel bir metottur.
+-- Bu metot olmazsa Activity sayfasý üretilemez.
+-- onCreate metodu kodlarýn yazýlacaðý ana metottur.
+-- onCreate metodu sayesinde .java uzantýlý sayfamýzý, .xml uzantýlý arayüz sayfalarýna
+setContentView() metodu sayesinde baðlayýp Activity üretmiþ oluruz.
+-- Bir deðiþken üretmek, bir deðiþkene varsayýlan deðer atamak onCreate metodu zamanýnda olabilir.
+-- Nesne tanýmlamalarý yine onCreate metodu içerisinde gerçekleþir.
+--- Örn: Bir buton üretmek, üretilen butona týklama olayýný yazmak onCreate içerisinde
+	tanýmlanmak durumundadýr.
+-- Activity sýnýfý üretildiði zaman 1 defa çalýþýr.(Uygulama açýk iken)
+
+- onRestart
+-- Uygulama sayfasýnýn tekrar baþlatýlma zamanýdýr.
+
+- onStart
+-- onCreate metodundan sonra onStart metodu çalýþýr.
+-- Activity sýnýfý üretildikten sonra çalýþan 2. metottur.
+
+- onResume
+-- onStart metodundan sonra onResume metodu çalýþýr.
+-- Görevi activity sýnýfýnýn çalýþmaya devam ettiði zamanda yapýlacak iþlemlerin
+tanýmlanabileceði metottur.
+
+- onPause
+-- Activity sayfasý durdurulmadan önce çalýþacak metottur.
+-- onStop metodundan önce çalýþýr.
+
+- onStop
+-- Activity sayfasýnýn arayüzde olmamasý, uygulamanýn alta indirilmesi durumunda çalýþan metottur.
+-- Activity sýnýfý kapatýlmadan önce yani onDestroy metodundan önce çalýþan metottur.
+
+- onDestroy
+-- Activity sayfasýný kapatmadan önce son olarak girebileceðimiz özel bir metottur.
+-- Bir sayfa kapatýlmadan önce yapýlmasý gereken iþlemler, burada tanýmlanmalýdýr.
+-- onDestroy metodunu çalýþtýrabilmek için, geri git butonuna týklamak yada finish() metodunu
+tetiklemek yeterlidir.
+
+

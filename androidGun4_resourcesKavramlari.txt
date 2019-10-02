@@ -1,0 +1,70 @@
+Resources Kavramlarý (Uygulama Kaynaklarý)
+
+- R sýnýfýnýn önemi (Resources)
+
+id
+string
+drawable
+layout
+
+
+anim
+attr
+bool
+color
+dimen
+int
+mipmap
+style
+styleable
+
+- res klasörünün önemi (Resources)
+-- res klasörü altýndaki tüm klasör isimleri özeldir.
+--- klasörler altýnda özel dosya isimleri de bulunabilir.
+
+
+Özel res klasörleri
+- anim
+- color
+-- Uygulama içerisinde bulunan renk tanýmlamalarýnýn yapýlabileceði klasördür.
+
+- drawable
+-- Çizim dosyalarý bulundurabilen klasördür.
+-- Ýçerisine .png, .jpg ve .xml(Vectorel çizim dosyasý) gönderilebilir.
+-- Uygulama içerisinde resim dosyalarýnýn saklanabileceði özel bir klasördür.
+
+- layout
+-- .xml uzantýlý layout dosyalarý bu klasör altýnda saklayabiliriz.
+-- Uygulama UI Design(Arayüz tasarýmý) ile alakalý iþlemleri burada barýndýrýrýz.
+
+- menu
+-- menü dosyalarý üretebilmek için kullanýlýr. .xml uzantýlý dosyalarý burada saklayabiliriz.
+
+- mipmap
+-- Uygulama logolarýnýn saklandýðý dosyadýr.
+
+- raw
+-- .mp3,.mp4,.wav gibi ses ve video içerikli dosyalarýn uygulama içerisinde saklanabileceði
+klasördür.
+
+- values
+-- strings.xml
+--- Uygulama içerisindeki metinsel ifadelerin özellikle saklanabildiði dosyadýr.
+--- String ifadeler xml dosyasý içerisinde, deðiþken olarak tanýmlanýr.
+--- strings.xml ile çoklu dil desteði de saðlanabilmektedir.
+-- colors.xml
+--- Uygulamaya ait özel renk tonlarý xml deðiþkenleri içerisinde saklanabilir.
+-- styles.xml
+--- Uygulama Temalarýný deðiþtirebildiðimiz, tanýmlayabildiðimiz özel bir dosyadýr.
+
+- transition
+-- Sayfa geçiþ animasyonlarýnýn tanýmlanabileceði özel bir klasördür.
+
+- xml
+- font
+- animator
+- interpolator
+- navigation
+
+
+

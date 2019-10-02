@@ -1,0 +1,46 @@
+javatpoint.com
+tutorialspoint.com
+
+Layout Yapýlarý
+- ConstraintLayout
+-- Tüm nesnelerin tek seferde taþýnabilmesine olanak tanýr.
+-- Tüm nesneleri tek seferde baðlayabilmek için Infer Constraint butonuna
+týklanmalýdýr.
+-- Tüm nesnelerin baðýný çözmek için Clear All Constraints butonuna týklanmasý
+gerekmektedir.
+-- Nesneler baðlanmazsa eðer, baðlanmayan nesneler sýfýr konumundadýr.
+(Sol üst köþe)
+-- Her açýlan projede varsayýlan olarak constraint layout bizi karþýlar.
+
+- LinearLayout
+-- Nesnelerin yan yana yada alt alta eklenmesine olanak tanýyan bir yapýsý vardýr.
+(Orientation vertical ve horizontal desteði)
+-- Birim satýsýna bölünebilir (weightSum)
+-- ScrollView nesnesinin alt elemaný olarak LinearLayout kullanýlýr.
+-- Orientation özelliði varsayýlan olarak horizontal(yatay)dýr.
+
+
+- RelativeLayout
+-- Nesneleri birbirleri ile iliþkili þekilde taþýyabiliriz.
+(Bu sayede nesne konumlandýrmasý kolaylaþýr.)
+-- Nesneleri sürükle býrak yöntemi ile istediðimiz yere býrakýp çalýþtýrdýðýmýzda
+istediðimiz yerde görebiliriz.
+
+
+- TableLayout
+- AbsoluteLayout
+- FrameLayout
+-- Fragment sýnýflarýnda kullanýlýr.
+
+
+
+
+Activity
+Activity; Java ve .xml arayüz dosyalarýnýn birleþiminden elde edilen bir yapýdýr.
+
+
+
+
+
+
+Genymotion (6gb)
