@@ -21,3 +21,5 @@
 
 ### 02.10.2019 Çarşamba
 - Resources Kavramları
+- LogCat yapısı
+- Butona tıklama olayı
