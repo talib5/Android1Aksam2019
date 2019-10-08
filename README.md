@@ -23,3 +23,15 @@
 - Resources Kavramları
 - LogCat yapısı
 - Butona tıklama olayı
+
+## 3.hafta
+### 07.10.2019 Pazartesi
+- Butona tıklama olayı
+- Resim değiştirme örneği
+- Login örneği
+- Toast Kullanımı
+- Sayaç Örneği
+
+### 08.10.2019 Salı
+### 09.10.2019 Çarşamba
+
