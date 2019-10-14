@@ -33,5 +33,23 @@
 - Sayaç Örneği
 
 ### 08.10.2019 Salı
-### 09.10.2019 Çarşamba
+- ScrollView Kullanımı
+- Anonim Buton Tıklama Dinleyicisi
+- Switch,CheckBox,RadioButton,ToggleButton nesneleri
+- WebView Kullanımı
 
+### 09.10.2019 Çarşamba
+- Adapter Kavramı ve ArrayAdapter Kavramı
+- AutoCompleteTextView
+- Butona Tıklama Örnek 3
+- GridView
+- ListView
+- Spinner
+- Asset klasöründeki HTML'i WebView ile görüntülemek
+
+## 4.hafta
+### 14.10.2019 Pazartesi
+
+### 15.10.2019 Salı
+
+### 16.10.2019 Çarşamba
