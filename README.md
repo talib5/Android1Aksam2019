@@ -49,6 +49,11 @@
 
 ## 4.hafta
 ### 14.10.2019 Pazartesi
+- Intent ve StartActivity metotları kullanımları
+- Intent ile diğer sayfaya veri taşımak
+- Menü oluşturmak
+- Menü elemanına tıklama olayı
+- Toolbarın başlığını değiştirmek ve Toolbara geri butonu eklemek
 
 ### 15.10.2019 Salı
 
