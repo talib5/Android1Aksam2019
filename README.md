@@ -59,6 +59,7 @@
 - Intent ile yerli uygulamaları açmak
 - Implicit Intent
 - Explicit Intent
+- startActivityForResult metodu
 
 ### 16.10.2019 Çarşamba
 - BaseAdapter ile Custom ListView
