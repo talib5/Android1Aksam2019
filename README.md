@@ -58,3 +58,5 @@
 ### 15.10.2019 Salı
 
 ### 16.10.2019 Çarşamba
+- BaseAdapter ile Custom ListView
+- SharedPreferences kullanımı
