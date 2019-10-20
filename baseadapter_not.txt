@@ -1,0 +1,20 @@
+1. aþama 
+Ýlgili activity layout'ýnda ListView üret.
+
+2. aþama
+ilgili satýr görüntüsü için bir layout dosyasý üret ve tasarýmýný hazýrla
+
+3. aþama
+Model sýnýfý üret. (Kapsülleme iþlemi)
+
+4. aþama
+BaseAdapter sýnýfýnýn üretilmesi
+
+5. aþama
+BaseAdapter sýnýfýna Context,LayoutInflater ve ArrayList nesneleri üret
+
+6. aþama
+BaseAdapter sýnýfý için boþ ve dolu constructor üret
+
+7. aþama 
+getCount,getItem,getItemId,getView metotlarýný doldur.

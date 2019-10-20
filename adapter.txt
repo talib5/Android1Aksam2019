@@ -1,0 +1,18 @@
+Adapter Sýnýfýný Kullanan Nesneler
+
+
+
+- Spinner
+-- ArrayAdapter, BaseAdapter
+- AutoCompleteTextView
+-- ArrayAdapter, BaseAdapter
+- MultiAutoCompleteTextView
+-- ArrayAdapter, BaseAdapter
+- ListView
+-- ArrayAdapter, BaseAdapter
+- GridView
+-- ArrayAdapter, BaseAdapter
+
+- RecyclerView
+-- En zengin adapter sýnýfýdýr. RecyclerView'ýn kendine has bir adapter'ý varýr.
+
