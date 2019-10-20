@@ -56,6 +56,9 @@
 - Toolbarın başlığını değiştirmek ve Toolbara geri butonu eklemek
 
 ### 15.10.2019 Salı
+- Intent ile yerli uygulamaları açmak
+- Implicit Intent
+- Explicit Intent
 
 ### 16.10.2019 Çarşamba
 - BaseAdapter ile Custom ListView
