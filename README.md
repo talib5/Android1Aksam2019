@@ -64,3 +64,18 @@
 ### 16.10.2019 Çarşamba
 - BaseAdapter ile Custom ListView
 - SharedPreferences kullanımı
+
+## 5.hafta
+### 21.10.2019 Pazartesi
+- Bilmeceler Uygulaması (SplashScreen,BaseAdapter,UI Design, Model)
+### 22.10.2019 Salı
+- Bilmeceler Uygulaması (BilmecelerActivity, UI Design, Model)
+### 23.10.2019 Çarşamba
+
+
+## 6.hafta
+### 28.10.2019 Pazartesi
+- Tatil
+### 29.10.2019 Salı
+- Tatil
+### 23.10.2019 Çarşamba
