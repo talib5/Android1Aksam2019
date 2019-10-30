@@ -1,0 +1,4 @@
+systemProp.http.proxyHost=proxy1.ismek.ist
+systemProp.http.proxyPort=8080
+systemProp.http.proxyUser=tcno
+systemProp.http.proxyPassword=sifre
