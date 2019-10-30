@@ -71,7 +71,7 @@
 ### 22.10.2019 Salı
 - Bilmeceler Uygulaması (BilmecelerActivity, UI Design, Model)
 ### 23.10.2019 Çarşamba
-
+- Bilmeceler Uygulaması (Son)
 
 ## 6.hafta
 ### 28.10.2019 Pazartesi
@@ -79,3 +79,4 @@
 ### 29.10.2019 Salı
 - Tatil
 ### 23.10.2019 Çarşamba
+- Milyoner Uygulaması
