@@ -78,5 +78,9 @@
 - 29 Ekim Cumhuriyet Bayramı
 ### 29.10.2019 Salı
 - 29 Ekim Cumhuriyet Bayramı
-### 23.10.2019 Çarşamba
-- Milyoner Uygulaması
+### 30.10.2019 Çarşamba
+- Milyoner Uygulaması (MainActivity UI Design)
+
+## 7.hafta
+### 04.11.2019 Pazartesi
+- Milyoner Uygulaması (OynaActivity UI Design)
